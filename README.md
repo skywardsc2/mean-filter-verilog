@@ -2,9 +2,9 @@
 
 ## Design e Testbench
 
-[Implementação com minimização de hardware](https://link)
+[Implementação com minimização de hardware](https://www.edaplayground.com/x/h9DG)
 
-[Implementação com maximização de throughput](https://link)
+[Implementação com maximização de throughput](https://www.edaplayground.com/x/agC5)
 
 ## Input
 
